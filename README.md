@@ -1,4 +1,4 @@
-# Storage Manager - Multi-Tool Hub
+# Simple Life - Multi-Tool Hub
 
 A comprehensive desktop application built with SvelteKit and Tauri that provides multiple productivity tools in one place.
 

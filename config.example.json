@@ -1,0 +1,13 @@
+{
+  "s3": {
+    "region": "us-east-1",
+    "bucket": "your-bucket-name",
+    "accessKeyId": "your-access-key-id",
+    "secretAccessKey": "your-secret-access-key"
+  },
+  "features": {
+    "enableFileDialog": true,
+    "enableManualPath": true,
+    "maxFileSize": "100MB"
+  }
+} 
